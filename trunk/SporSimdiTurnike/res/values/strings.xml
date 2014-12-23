@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="send">Giriş</string>
+    <string name="app_name">SporSimdi Turnike</string>
+    <string name="title_activity_main">SporSimdi Turnike</string>
+    
+</resources>
